@@ -1,0 +1,20 @@
+
+f
+java:S1301W"KReplace this "switch" statement by "if" statements to increase readability.(øå´¡ÿÿÿÿÿ
+v
+java:S1450$"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+r
+java:S1450("\Remove the "sensorManager" field and declare it as a local variable in the relevant methods.(Þ¬–„
+V	java:S125&"<This block of commented-out lines of code should be removed.(¹Š®£øÿÿÿÿ
+V	java:S1254"<This block of commented-out lines of code should be removed.(õ©Ë´ÿÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(°»£ª
+Q	java:S125N"<This block of commented-out lines of code should be removed.(¯ý¬
+F
+java:S1481\"+Remove this unused "sensor" local variable.(¢‰¹®üÿÿÿÿ
+Y	java:S125"<This block of commented-out lines of code should be removed.(½ŠÝù8ÝÄË°É0
+^	java:S125¥"<This block of commented-out lines of code should be removed.(Æ½ìêþÿÿÿÿ8ôöÊ°É0
+Y	java:S125¶"<This block of commented-out lines of code should be removed.(¡¥©“8õöÊ°É0
+Y	java:S125Á"<This block of commented-out lines of code should be removed.(þ‘¦±8ööÊ°É0
+Y	java:S125Å"<This block of commented-out lines of code should be removed.(íÂ8÷öÊ°É0
+^	java:S125Ë"<This block of commented-out lines of code should be removed.(™¬µÀýÿÿÿÿ8øöÊ°É0
+Y	java:S125Ô"<This block of commented-out lines of code should be removed.(¯é¸Ý8ùöÊ°É0

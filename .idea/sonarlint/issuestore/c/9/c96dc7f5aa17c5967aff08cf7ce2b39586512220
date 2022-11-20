@@ -1,0 +1,10 @@
+
+{
+java:S1450"YRemove the "sensorName" field and declare it as a local variable in the relevant methods.(×ì¶Õúÿÿÿÿ8ÙÊ ¯É0
+~
+java:S1450"aRemove the "sensorNameTextView" field and declare it as a local variable in the relevant methods.(„”÷ë8ÚÊ ¯É0
+Q	java:S125&"<This block of commented-out lines of code should be removed.(›ýŒ„
+K
+java:S22098"5Change this instance-reference to a static reference.(‡®õ
+Q	java:S125K"<This block of commented-out lines of code should be removed.(ºö´
+Q	java:S125P"<This block of commented-out lines of code should be removed.(Õàã¥

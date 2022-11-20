@@ -1,0 +1,17 @@
+
+f
+java:S1301?"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ
+]
+java:S2259o"GA "NullPointerException" could be thrown; "addresses" is nullable here.(ìêí˜
+z	java:S116#"eRename this field "REQEST_LOCATION_PERMISSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€—Þ‡
+7
+java:S1170#"!Make this final field static too.(€—Þ‡
+u
+java:S1450%"_Remove the "getAddressButton" field and declare it as a local variable in the relevant methods.(û¯ÀÕ
+‚
+java:S1450$"`Remove the "getLocationButton" field and declare it as a local variable in the relevant methods.(Š†ïæøÿÿÿÿ8…„ÿ²É0
+e
+java:S1874="JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶þÿÿÿÿ
+<	java:S131?""Add a default case to this switch.(×ö³–úÿÿÿÿ
+|
+java:S2178o"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ìêí˜
